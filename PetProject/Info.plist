@@ -21,5 +21,19 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+	</array>
+	<key>NSUserNotificationsUsageDescription</key>
+	<string>Нам нужно отсылать вам уведомления</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Нам нужен доступ к вашей геолокации</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Нам нужен доступ к вашей геолокации</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Нам нужен доступ к вашей геолокации</string>
 </dict>
 </plist>
